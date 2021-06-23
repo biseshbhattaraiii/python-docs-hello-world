@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webapp-modulekeys-oauth-testing'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_27069bdc167a4c498484d13ff72e3a5b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a8f118eddfcb42ffbd0afdd9c40e38d6 }}
